@@ -1,0 +1,21 @@
+{
+  "action": "opened",
+  "repository": {
+    "name": "user-service",
+    "full_name": "local/user-service",
+    "owner": {
+      "login": "local"
+    }
+  },
+  "pull_request": {
+    "number": 21,
+    "head": {
+      "ref": "feature/remove-user-id",
+      "sha": "head-sha-002"
+    },
+    "base": {
+      "ref": "main",
+      "sha": "base-sha-002"
+    }
+  }
+}

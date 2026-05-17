@@ -1,0 +1,19 @@
+{
+  "event_id": "local-pr-001",
+  "event_name": "pull_request",
+  "action": "opened",
+  "pr_number": 12,
+  "repository": {
+    "name": "user-service",
+    "full_name": "local/user-service",
+    "root_path": "services/user-service"
+  },
+  "base": {
+    "ref": "main",
+    "sha": "base-sha-001"
+  },
+  "head": {
+    "ref": "feature/remove-user-id",
+    "sha": "head-sha-001"
+  }
+}
